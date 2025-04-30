@@ -1,5 +1,9 @@
 # final-project
 An ADHD-Productivity/Note-Taking app aimed at tackling accessibility to combat task-paralysis, time blindness and cognitive overload through intentional design
+
+## How to download
+The application is too big for github to upload so here is a link to a google drive to download it => https://drive.google.com/drive/folders/1mPlvJavLjdhwq79YzGKD0pXSeYmkZ3AR
+
 ## How to run 
 You will need to open two terminals in your editor of choice =>
 ![image](https://github.com/user-attachments/assets/be303d8f-bd50-462a-8a4b-a9115f07307c)
